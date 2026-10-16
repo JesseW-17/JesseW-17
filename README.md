@@ -5,7 +5,7 @@ GitHub 个人主页 README 模板。
 这些注释不会显示在 GitHub 渲染后的主页上。
 -->
 
-# Zixi Wei
+# Jesse Wei
 
 Master's student in Artificial Intelligence at **Peking University**.
 
